@@ -23,4 +23,4 @@ class Test_ABC:
 
     def test_b(self):
         print("------->test_b")
-        assert 0, "Error Image" # 断言失败```
+        assert 1, "Error Image" # 断言失败```
